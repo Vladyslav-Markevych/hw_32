@@ -1,66 +1,66 @@
 const images = [
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-1.jpg",
+    src: "https://avotar.ru/avatar/krutye/100/76.jpg",
     alt: "cat",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-2.jpg",
-    alt: "tiger",
+    src: "https://avotar.ru/avatar/krutye/100/79.jpg",
+    alt: "boy",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-3.jpg",
-    alt: "hippopotamus",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/10.jpg",
+    alt: "monkey",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-4.jpg",
-    alt: "ferret",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/7.jpg",
+    alt: "frog",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-5.jpg",
-    alt: "tiger rabbit",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/41.jpg",
+    alt: "cow",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-6.jpg",
+    src: "https://avotar.ru/avatar/krutye/100/78.jpg",
     alt: "cat",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-7.jpg",
-    alt: "panther",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/57.jpg",
+    alt: "dog",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-8.jpg",
-    alt: "cat",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/63.jpg",
+    alt: "hamster",
   },
   {
     src: "http://www.avatava.org/pics100/animals/avatar-9.jpg",
     alt: "cartoon cat",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-10.jpg",
-    alt: "chickens",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/112.jpg",
+    alt: "owl",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-11.jpg",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/116.jpg",
     alt: "cat",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-12.jpg",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/128.jpg",
     alt: "eagle",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-13.jpg",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/12.jpg",
     alt: "leopard",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-14.jpg",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/6.jpg",
     alt: "cat",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-15.jpg",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/5.jpg",
     alt: "dog",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-16.jpg",
+    src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/30.jpg",
     alt: "squirrel",
   },
 ];
