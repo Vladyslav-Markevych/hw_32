@@ -65,8 +65,9 @@ const images = [
   },
 ];
 
-function addImage() {
+function addImages() {
   let wrapper = document.createElement("div");
+  wrapper.id = "div";
   const fragment = new DocumentFragment();
   images.forEach((elem) => {
     let img = new Image();
@@ -83,7 +84,7 @@ function addImage() {
   document.body.append(wrapper);
 }
 
-addImage();
+addImages();
 
 // 3
 function getRandomInt() {
@@ -100,8 +101,8 @@ function random() {
       fragmentRandom.append(clone[randomka]);
     }
   }
-  document.querySelector("div").append(fragmentRandom);
+  document.getElementById("div").append(fragmentRandom);
 }
 
-firstDiv = document.querySelector("div");
+let firstDiv = document.querySelector("div");
 firstDiv.addEventListener("click", random);

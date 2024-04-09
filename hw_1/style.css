@@ -29,4 +29,5 @@ ul {
   align-items: center;
   border: thick double #32a1ce;
   padding: 2px;
+  width: 100px;
 }
