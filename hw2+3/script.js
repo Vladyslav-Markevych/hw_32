@@ -32,8 +32,8 @@ const images = [
     alt: "hamster",
   },
   {
-    src: "http://www.avatava.org/pics100/animals/avatar-9.jpg",
-    alt: "cartoon cat",
+    src: "https://avotar.ru/avatar/minony/100/13.jpg",
+    alt: "minion",
   },
   {
     src: "https://avotar.ru/avatar/smeshnye-jivotnye/100/112.jpg",
