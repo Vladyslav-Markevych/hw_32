@@ -101,8 +101,9 @@ function random() {
       fragmentRandom.append(clone[randomka]);
     }
   }
+
   document.getElementById("div").append(fragmentRandom);
 }
 
-let firstDiv = document.querySelector("div");
+let firstDiv = document.getElementById("div");
 firstDiv.addEventListener("click", random);
